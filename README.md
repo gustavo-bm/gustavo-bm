@@ -5,7 +5,7 @@
 -->
 
 ## Olá, me chamo Gustavo!
-### Estou cursando Ciência da Computação, atualmente no segundo ano, e me interesso em adquirir conhecimentos necessários para um desenvolvedor full-stack.
+### Estou cursando o segundo ano de Ciência da Computação, curso que escolhi por uma afinidade por lógica, matemática e um brilho nos olhos quando o assunto é tecnologia. Naturalmente muito curioso, não me prendo especificamente a nenhuma área da computação. Procuro sempre estudar novas vertentes, alternando meus estudos de modo a me tornar um profissional completo e com um vasto conhecimento. Obviamente faço isso de maneira ordenada, sabendo que ao tentar tudo ao mesmo tempo acabamos por não fazer nada direito... Nesta minha conta do GitHub eu coloco repositórios de estudos que faço, geralmente sozinho, e neste README também estão algumas informações em síntese.
 
 <!-- stats -->
 
@@ -29,7 +29,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
 ### Ferramentas de trabalho:
 
