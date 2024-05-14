@@ -4,8 +4,8 @@
 &nbsp;&nbsp;&nbsp;
 -->
 
-## Olá, me chamo Gustavo!
-### Estou cursando o segundo ano de Ciência da Computação, curso que escolhi por uma afinidade por lógica, matemática e um brilho nos olhos quando o assunto é tecnologia. Naturalmente muito curioso, não me prendo especificamente a nenhuma área da computação. Procuro sempre estudar novas vertentes, alternando meus estudos de modo a me tornar um profissional completo e com um vasto conhecimento. Obviamente faço isso de maneira ordenada, sabendo que ao tentar tudo ao mesmo tempo acabamos por não fazer nada direito... Nesta minha conta do GitHub eu coloco repositórios de estudos que faço, geralmente sozinho, e neste README também estão algumas informações em síntese.
+# Olá, me chamo Gustavo! :slightly_smiling_face:
+<p>Estou cursando o segundo ano de Ciência da Computação, curso que escolhi por uma afinidade por lógica, matemática e um brilho nos olhos quando o assunto é tecnologia. Naturalmente muito curioso, não me prendo especificamente a nenhuma área da computação. Procuro sempre estudar novas vertentes, alternando meus estudos de modo a me tornar um profissional completo e com um vasto conhecimento. Obviamente faço isso de maneira ordenada, sabendo que ao tentar tudo ao mesmo tempo acabamos por não fazer nada direito... Nesta minha conta do GitHub eu coloco repositórios de estudos que faço, geralmente sozinho, e neste README também estão algumas informações em síntese.></p>
 
 <!-- stats -->
 
