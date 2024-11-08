@@ -5,7 +5,7 @@
 -->
 
 # Olá, me chamo Gustavo! :slightly_smiling_face:
-<p>Estou cursando o segundo ano de Ciência da Computação, curso que escolhi por uma afinidade por lógica, matemática e um brilho nos olhos quando o assunto é tecnologia. Naturalmente muito curioso, não me prendo especificamente a nenhuma área da computação. Procuro sempre estudar novas vertentes, alternando meus estudos de modo a me tornar um profissional completo e com um vasto conhecimento. Obviamente faço isso de maneira ordenada, sabendo que ao tentar tudo ao mesmo tempo acabamos por não fazer nada direito... Nesta minha conta do GitHub eu coloco repositórios de estudos que faço, geralmente sozinho, e neste README também estão algumas informações em síntese.</p>
+<p>Estou cursando o segundo ano de Ciência da Computação, curso que escolhi por uma afinidade por lógica, matemática e um brilho nos olhos quando o assunto é tecnologia. Naturalmente muito curioso, não me prendo especificamente a nenhuma área da computação. Procuro sempre estudar novas vertentes, alternando meus estudos de modo a me tornar um profissional completo e com um vasto conhecimento. Obviamente faço isso de maneira ordenada, sabendo que ao tentar tudo ao mesmo tempo acabamos por não fazer nada direito... Nesta minha conta do GitHub eu coloco repositórios de estudos que faço, e neste README também estão algumas informações em síntese.</p>
 
 <!-- stats -->
 
@@ -17,11 +17,18 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)&nbsp;
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -29,8 +36,6 @@
 
 ### Linguagens e tecnologias que estou aprendendo:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
