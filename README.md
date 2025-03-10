@@ -13,6 +13,10 @@
 
 ## Minhas Habilidades
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bm&size_weight=0.5&count_weight=0.5&theme=dark)
+
+![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bm&show_icons=true&theme=dark)
+
 ### Tecnologias que tenho maior domínio:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
