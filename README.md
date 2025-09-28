@@ -3,7 +3,17 @@
 ---
 ![WhatsApp Image 2025-09-28 at 10 39 05](https://github.com/user-attachments/assets/6e852fd9-c1ac-4079-8da0-e882488b717e)
 
-<p>As a second-year <b>Computer Science</b> student, my passion for <b>logic and mathematics</b> guided me into the world of technology. I'm naturally curious and constantly seek to expand my knowledge by exploring various areas of computing to become a well-rounded professional. I maintain a continuous and organized study routine, ensuring that I thoroughly assimilate each new technology. On this GitHub, you'll find my projects and studies, which reflect my journey and skills.</p>
+<p>As a second-year <b>Computer Science</b> student, my passion for <b>logic and mathematics</b> guided me into the world of technology. I'm naturally curious and constantly seek to expand my knowledge by exploring various areas of computing to become a well-rounded professional. I maintain a continuous and organized study routine, ensuring that I thoroughly assimilate each new technology. Currently working at @Ford and as Project Director at Beets Jr. On this GitHub, you'll find my projects and studies, which reflect my journey and skills.</p>
+
+<p align="center">
+My 3D portfolio, TAKE A LOOK!
+</p>
+
+<p align="center">
+  <a href="https://firstapp-8336d.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-663399.svg?style=for-the-badge" alt="Built with Bit">
+  </a>
+</p>
 
 ---
 
