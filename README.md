@@ -3,7 +3,7 @@
 ![WhatsApp Image 2025-09-28 at 10 39 05](https://github.com/user-attachments/assets/6e852fd9-c1ac-4079-8da0-e882488b717e)
 
 <p>
-  Brazilian <b>Software Engineer</b> pursuing a <b>Diplôme d'Ingénieur in Computer Systems Design</b> at <b>ENSTA Paris</b> — <i>Grande École, Institut Polytechnique de Paris</i>. My passion for <b>logic and mathematics</b> led me into computing, where I've built experience across the full stack: from AI research and system design at Ford Motor Company, to co-founding a startup, leading projects at a university junior enterprise, and developing enterprise banking software. I thrive on building robust, scalable solutions and believe in continuous, disciplined learning.
+  Brazilian <b>Software Engineer</b> pursuing a <b>Diplôme d'Ingénieur in Computer Systems Design</b> at <b>ENSTA</b> — <i>Grande École, Institut Polytechnique de Paris</i>. My passion for <b>logic and mathematics</b> led me into computing, where I've built experience across the full stack: from AI research and system design at Ford Motor Company, to co-founding a startup, leading projects at a university junior enterprise, and developing enterprise banking software. I thrive on building robust, scalable solutions and believe in continuous, disciplined learning.
 </p>
 
 <p align="center">
